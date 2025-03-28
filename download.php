@@ -1,5 +1,5 @@
 <?php
-$file_url = "KONSTANTINOS_GKOGKOS_Resume.pdf"; // Path to your file in the same directory
+$file_url = "GkogkosKonstantinosCv.pdf"; // Path to your file in the same directory
 
 // Set headers for file download
 header("Content-Disposition: attachment; filename=" . basename($file_url));
